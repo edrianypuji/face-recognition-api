@@ -15,10 +15,18 @@
     "clarifai": "^2.9.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "knex": "^0.19.0",
+    "knex": "^0.19.1",
     "pg": "^7.11.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edrianypuji/face-recognition-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edrianypuji/face-recognition-api/issues"
+  },
+  "homepage": "https://github.com/edrianypuji/face-recognition-api#readme"
 }
