@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "engines": {
+      "node": "10.16.0"
+  },
   "scripts": {
     "start": "node server.js"
   },
@@ -30,3 +33,4 @@
   },
   "homepage": "https://github.com/edrianypuji/face-recognition-api#readme"
 }
+
